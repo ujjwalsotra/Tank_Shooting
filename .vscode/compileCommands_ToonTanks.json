@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\\\Users\\\\ujjwa\\\\Desktop\\\\Project Unreal c++\\\\ToonTanksProjectSetup_4.25\\\\ToonTanksProjectSetup_4.25\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\PawnBase.cpp",
+		"command": "cl.exe @\"C:\\Users\\ujjwa\\Desktop\\Project Unreal c++\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\ujjwa\\\\Desktop\\\\Project Unreal c++\\\\ToonTanksProjectSetup_4.25\\\\ToonTanksProjectSetup_4.25\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\PawnBase.h",
+		"command": "cl.exe @\"C:\\Users\\ujjwa\\Desktop\\Project Unreal c++\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\ujjwa\\\\Desktop\\\\Project Unreal c++\\\\ToonTanksProjectSetup_4.25\\\\ToonTanksProjectSetup_4.25\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\ToonTanks.Build.cs",
+		"command": "cl.exe @\"C:\\Users\\ujjwa\\Desktop\\Project Unreal c++\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\ujjwa\\\\Desktop\\\\Project Unreal c++\\\\ToonTanksProjectSetup_4.25\\\\ToonTanksProjectSetup_4.25\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\ToonTanks.cpp",
+		"command": "cl.exe @\"C:\\Users\\ujjwa\\Desktop\\Project Unreal c++\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\ujjwa\\\\Desktop\\\\Project Unreal c++\\\\ToonTanksProjectSetup_4.25\\\\ToonTanksProjectSetup_4.25\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\ToonTanks.h",
+		"command": "cl.exe @\"C:\\Users\\ujjwa\\Desktop\\Project Unreal c++\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]
